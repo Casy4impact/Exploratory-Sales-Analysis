@@ -19,14 +19,14 @@ The objectives of this project are to:
 - Provide a data-driven foundation for future business decisions.
 
 ## The Exploratory Data Analysis/ESA is centred on these subheadings below
-Investigating Number of customers in each customer Spec/Category
-Number of Transactions by Sales Person
-Total Transactions by Customer Age Group
-Total Transactions by Customer Gender
-Percentage of Transactions by Product Category
-Top 10 Transactions by State
-Percentage of Transactions by Profit or Loss
-Product category against Cost, Revenue and Profit
-Customer Gender, Age Group and profit
-Recommendations and Business Decisions
+- Investigating Number of customers in each customer Spec/Category
+- Number of Transactions by Sales Person
+- Total Transactions by Customer Age Group
+- Total Transactions by Customer Gender
+- Percentage of Transactions by Product Category
+- Top 10 Transactions by State
+- Percentage of Transactions by Profit or Loss
+- Product category against Cost, Revenue and Profit
+- Customer Gender, Age Group and profit
+- Recommendations and Business Decisions
 ## Note: all the recommendations and business decisions are detailed in the python code attached therein
